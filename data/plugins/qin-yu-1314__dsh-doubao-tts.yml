@@ -1,0 +1,6 @@
+url: https://github.com/qin-yu-1314/dsh-doubao-tts
+name: qin-yu-1314/dsh-doubao-tts
+category: voice
+description:
+  en: 'Read any finished assistant reply aloud with Volcengine Doubao bidirectional streaming TTS: a persistent per-answer speaker button in the conversation plus a settings page for API key, voice id and audio format.'
+  zh: 用火山引擎豆包双向流式语音合成朗读任意一条回答：每条回答下方常显朗读按钮，并在设置页配置 API Key、音色与音频格式。
